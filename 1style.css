@@ -1,0 +1,594 @@
+
+*{
+    margin: 0%;
+    scroll-behavior: smooth;
+}
+
+header{
+    background-color: black;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px ;
+    box-shadow: 0px 0px 17px black
+}
+
+/* .oo.a{
+    text-decoration: none;
+    padding-left: 30px;
+    font-size: 20px;
+    color: white;
+    transition:0.4s ;
+}
+.oo a:hover{
+    color: blue;
+    
+} */
+
+.اا{
+    text-decoration: none;
+    padding-left: 30px;
+    color: white;
+    font-size: 21px;
+    transition: 0.4s;
+}
+
+.اا:hover{
+    color: deepskyblue;
+}
+
+.كك{
+    text-decoration: none;
+    padding-left: 30px;
+    color: white;
+    font-size: 21px;
+    transition: 0.5s;
+}
+
+.كك:hover{
+    color: deepskyblue;
+}
+
+
+
+
+.صص{
+    text-decoration: none;
+    padding-left: 30px;
+    color: deepskyblue;
+    font-size: 25px;
+}
+
+.llkk{
+    margin:-155px -306px ;
+}
+
+.main{
+    background-color: rgb(5, 5, 73);
+    padding:322px 400px; 
+   
+}
+h3{
+    padding-top: 40px;
+    margin-bottom: 7px;
+}
+h1{
+    font-size: 42px;
+    margin-top: -100px;
+    color: white;
+    padding-left: 20px;
+    font-family: 'Lalezar', system-ui;
+}
+
+.MM{
+    color: white;
+    font-size: 21px;
+}
+
+.mm{
+    padding-top: 0px;
+    margin-bottom: 51px;
+    margin-left: 45px;
+    font-size: 21px;
+    color: white;
+}
+
+.ابدأ{
+    background-color: aqua;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 30px ;
+    padding: 0.55rem 8.095rem;
+    padding-left: 134px;
+    transition: 0.4s;
+    padding-left: 151px;
+}
+
+.ابدأ:hover{
+    background-color: transparent;
+    border: 2px solid white;
+    transition: 0.4s;
+}
+
+.kk{
+    width: 63%;
+    height: 663px;
+    margin-bottom: -294px;
+    margin-top: -496px;
+    margin-left: 397px;
+    transition: 0.5s;
+
+}
+
+.kk:hover{
+    padding: 0px 0px 10px;
+}
+/* الشيكشن الثاني */
+.two{
+  padding: 93px 33px 38px 48px
+}
+
+.zz{
+    width: 263px ;
+    height: 331px;
+    transition: 0.5s;
+    border: 5px solid black;
+    box-shadow:0px 5px 25px black ;
+    border-radius: 38px;
+}
+
+.zz:hover{
+    transform: scale(1.1);
+
+}
+
+.xx{
+    width: 263px;
+    height: 331px;
+    transition: 0.5s;
+    border: 5px solid black;
+    box-shadow: 0px 5px 25px black;
+    margin: 0px 0px 0px 48px;
+    border-radius: 38px;
+}
+
+.xx:hover{
+    transform: scale(1.1);
+}
+
+.vv{
+    width: 263px;
+    height: 331px;
+    transition: 0.5s;
+    border: 5px solid black;
+    box-shadow:0px 5px 25px black ;
+    border-radius: 38px;
+    margin: 0px 48px;
+}
+
+.vv:hover{
+    transform: scale(1.1);
+}
+
+.dd{
+    color: black;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: -84px;
+}
+
+
+.plm{
+    padding: 0px 0px;
+    display: flex;
+    }
+
+/* الشيكشن الثالث */
+
+.trois{
+    padding: 18px 200px;
+    background-color: rgb(231, 231, 231);
+}
+
+.small{
+    color: white;
+    margin: 0px 198px;
+}
+
+.sma{
+    color: white;
+    margin: 17px 357px -14px;
+}
+
+
+.nm{
+    color: white;
+    padding: 0px 17px 0px 461px;
+    text-decoration: none;
+    font-size: 23px;
+}
+
+.klo{
+    display: flex;
+    height: 193px;
+    margin: 30px 102px;
+}
+
+.om{
+    padding: 18px 0px;
+    background-color: rgb(5, 5, 73);
+}
+
+
+.z1{
+    background: white;
+    padding: 0px 0px;
+    width: 192px;
+    border-radius: 16px;
+    border: 3px solid black;
+    margin: 0px -31px;
+    transition: 0.5s;
+}
+
+.z1:hover{
+    transform: scale(1.1);
+}
+
+.lo1{
+    width: 138px;
+    margin: -12px 22px -33px;
+}
+
+
+.x1{
+    padding: 16px 10px 7px;
+    margin: -1px 0px 0px;
+    font-size: 18px;
+}
+
+.x2{
+    font-size: 18px;
+    padding: 0px 31px;
+    margin: 0px 0px 14px;
+}
+
+.uu{
+    background: white;
+    padding: 0px 0px;
+    width: 192px;
+    border-radius: 16px;
+    border: 3px solid black;
+    margin: 0px 64px;
+    transition: 0.5s;
+}
+
+.uu:hover{
+    transform: scale(1.1);
+}
+
+.lo2{
+    width: 138px;
+    margin: -12px 22px -33px;
+}
+
+.c1{
+    padding: 16px 37px 7px;
+    margin: -1px 0px 0px;
+    font-size: 18px;
+}
+
+.c2{
+font-size: 18px;
+    padding: 0px 77px;
+    margin: 0px 0px 14px;
+}
+
+.po{
+    background: white;
+    padding: 0px 0px;
+    width: 192px;
+    border-radius: 16px;
+    border: 3px solid black;
+    margin: 0px -33px;
+    transition: 0.5s;
+}
+
+.po:hover{
+    transform: scale(1.1);
+}
+
+.v1{
+    padding: 16px 25px 7px;
+    margin: -1px 0px 0px;
+    font-size: 18px;
+}
+
+.v2{
+    font-size: 18px;
+    padding: 0px 56px;
+    margin: 0px 0px 14px;
+}
+
+.lo3{
+    width: 138px;
+    margin: -12px 22px -33px;
+}
+
+
+
+.lmn{
+    background: white;
+    padding: 0px 0px;
+    width: 192px;
+    border-radius: 16px;
+    border: 3px solid black;
+    margin: 0px 65px;
+    transition: 0.5s;
+}
+
+.lmn:hover{
+    transform: scale(1.1);
+}
+
+.lo4{
+    width: 138px;
+    margin: -12px 22px -33px;
+    
+}
+
+
+.b1{
+    padding: 16px 23px 7px;
+    margin: -1px 0px 0px;
+    font-size: 18px;
+}
+
+.b2{
+    font-size: 18px;
+    padding: 0px 50px;
+    margin: 0px 0px 14px;
+}
+
+.mnbv{
+    margin: 3px;
+    text-align: center;
+}
+
+.tree9{
+    background: deepskyblue;
+    height: 107px;
+}
+
+.asd{
+    text-align: center;
+    padding: 38px;
+    font-family: 'Mada', sans-serif;
+    font-size: 26px;
+}
+
+.trois6{
+    padding: 18px 0px;
+    background-color: white;
+}
+
+.small{
+    color: black;
+    margin: 0px 168px;
+    font-family: 'Lalezar', system-ui;
+}
+
+.sma{
+    color:black;
+    margin: 17px 357px -14px;  
+    font-family: 'Lalezar', system-ui;
+}
+.lin{
+    text-decoration: none;
+    color: darkblue;
+}
+
+ @media (max-width:1023px) {
+    
+    header{
+        height:100px ;
+    }
+    .nm{
+        padding: 0px 10px;
+        margin: 0px 0px 0px -252px;
+        font-size: 40px;
+    }
+    .oo{
+        margin: 0px 11px;
+        width: 1292px;
+    }
+    .صص{
+        font-size: 46px; 
+    }
+    .كك{
+        font-size: 36px;
+    }
+    .اا{
+        font-size: 36px;
+    }
+    .main{
+       width:  78%;
+        height: 2445px ;
+    }
+    .oii{
+        position: absolute;
+        top: 2212px;
+        left: 633px;
+    } 
+    .llkk{
+        margin: -155px -306px;
+    }
+    .kk{
+        margin: -14px -110px;
+        width: 1568px;
+        height: 1996px;
+    }
+    
+   .ابدأ{
+        padding: 17px 323px;
+        position: absolute;
+        top: 439px;
+        left: -195px;
+        font-size: 73px;
+        /* padding: 41px 253px; */
+        /* font-size: 58px; */
+    }
+    h1{
+        font-size: 119px;
+        margin: -10px -378px -22px;
+    }
+    .MM{
+        margin: 33px -311px -14px;
+        font-size: 63px;
+    }
+    .mm{
+        margin: 26px -163px;
+        font-size: 63px;
+    }
+/* السيكشن التاني */
+    .two{
+        height: 1100px;
+        width: 100%;
+}
+    .plm{
+        display: inline;
+    }
+    .zz{
+        position: relative;
+        right: -321px;
+        top:  152px;
+        width: 872px;
+        height: 1266px;
+    }
+.xx{
+    position: relative;
+    right: -272px;
+   top: 275px;
+    width: 872px;
+    height: 1266px;
+}
+.vv{
+    position: relative;
+    right: -272px;
+    top: 414px;
+    width: 872px;
+    height: 1266px;
+}
+.dd {
+    font-size: 133px;
+    margin: -17px 537px;
+    text-align: end;
+    font-weight: bold;
+}
+
+/* السيكشن التالت */
+    .om{
+     margin:3457px   0px 0px;
+    width: 159% ;
+    height: 2916px;
+}
+.mnbv{
+    font-size: 103px;
+    margin: 31px 0px -120px;
+}
+.klo{
+    display: inline;
+    text-align: -webkit-center;
+}
+.z1{
+    margin: 223px 0px 0px;
+    width: 14cm;
+    height: 14cm;
+}
+.lo1{
+    width: 346px;
+}
+.x1{
+    font-size: 54px;
+}
+.x2{
+    font-size: 54px;
+}
+.uu{
+    width: 14cm;
+    height: 14cm;
+    margin: 121px 0px;
+}
+.lo2{
+    width: 346px;
+}
+.c1{
+    font-size: 54px;
+}
+.c2{
+    font-size: 54px;
+}
+
+.po{
+    width: 14cm;
+    height: 14cm;
+    margin: 121px 0px;
+}
+.lo3{
+    width: 346px;
+}
+.v1{
+    font-size: 54px;
+}
+.v2{
+    font-size: 54px;
+}
+.lmn{
+    width: 14cm;
+    height: 14cm;
+    margin: 121px 0px;
+}
+.lo4{
+    width: 346px;
+}
+.b1{
+    font-size: 54px;
+}
+.b2{
+    font-size: 54px;
+}
+
+/* السيكشن الرابع */
+.tree9{
+   width: 159%;
+   height: 234px;
+}
+.asd{
+    font-size: 58px;
+}
+
+/* السيكشن الخامس  الاخير */
+.trois6{
+    width: 137%;
+    height: 293px;
+}
+.small{
+    font-size: 61px;
+    margin: 13px -200px;
+}
+.sma{
+    font-size: 61px;
+    margin: 29px;
+    text-align: center;
+}
+.lin{
+    font-size: 37px;
+    position: relative;
+    top: -41px;
+    left: 906px;
+    font-weight: bold;
+}
+ }
